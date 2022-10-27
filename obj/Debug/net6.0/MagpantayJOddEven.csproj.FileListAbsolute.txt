@@ -1,0 +1,15 @@
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\bin\Debug\net6.0\MagpantayJOddEven.exe
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\bin\Debug\net6.0\MagpantayJOddEven.deps.json
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\bin\Debug\net6.0\MagpantayJOddEven.runtimeconfig.json
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\bin\Debug\net6.0\MagpantayJOddEven.dll
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\bin\Debug\net6.0\MagpantayJOddEven.pdb
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\MagpantayJOddEven.csproj.AssemblyReference.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\MagpantayJOddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\MagpantayJOddEven.AssemblyInfoInputs.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\MagpantayJOddEven.AssemblyInfo.cs
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\MagpantayJOddEven.csproj.CoreCompileInputs.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\MagpantayJOddEven.dll
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\refint\MagpantayJOddEven.dll
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\MagpantayJOddEven.pdb
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\MagpantayJOddEven.genruntimeconfig.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJOddEven\obj\Debug\net6.0\ref\MagpantayJOddEven.dll
