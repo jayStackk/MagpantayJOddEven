@@ -18,7 +18,7 @@ while (reRun)
 
 
     while(!moreValid){
-Console.WriteLine("Put your own number!");
+ Console.WriteLine("Put your own number!");
 
     validateMe = Console.ReadLine();
 
@@ -54,6 +54,7 @@ Console.WriteLine("Put your own number!");
 
     Console.WriteLine("play again? press enter or type done");
     string overNow = Console.ReadLine();
+    Console.WriteLine(" GGs");
 
     if (overNow == "done"){
 
@@ -65,5 +66,5 @@ Console.WriteLine("Put your own number!");
 
 
     }
-    Console.WriteLine(" GGs");
+    // Console.WriteLine(" GGs");
 
